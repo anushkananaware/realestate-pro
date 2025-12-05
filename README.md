@@ -1,4 +1,4 @@
-RealEstate Pro - Fullstack Project (Django + React)
+RealEstate Pro [RealEstate Analysis Chatbot] - Fullstack Project (Django + React)
 
 Structure:
 - backend/: Django REST backend (api endpoints: /api/analyze/, /api/compare/, /api/upload/, /api/download/)
